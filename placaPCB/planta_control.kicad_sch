@@ -6237,7 +6237,7 @@
 	)
 	(text "testpoint de alimentación\n"
 		(exclude_from_sim no)
-		(at 157.226 201.168 0)
+		(at 157.226 202.438 0)
 		(effects
 			(font
 				(size 4 4)
@@ -6353,7 +6353,7 @@
 		(uuid "6f094c52-df07-49bf-9a5b-7d536df4a585")
 	)
 	(junction
-		(at 139.7 165.1)
+		(at 139.7 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "71a43c1d-c361-4eba-85ad-7be02db1a8a7")
@@ -6389,13 +6389,13 @@
 		(uuid "96ec8b7b-a98b-452a-b28f-c7bb34f7b9ba")
 	)
 	(junction
-		(at 157.48 165.1)
+		(at 157.48 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9bed1aa8-0a18-40e2-858c-91062c060965")
 	)
 	(junction
-		(at 162.56 165.1)
+		(at 162.56 166.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a6651146-7a22-4050-b7f1-8f99d0c5c1c3")
@@ -6636,7 +6636,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 177.8) (xy 127 185.42)
+			(xy 127 179.07) (xy 127 186.69)
 		)
 		(stroke
 			(width 0)
@@ -6706,7 +6706,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 179.07) (xy 144.78 190.5)
+			(xy 144.78 180.34) (xy 144.78 191.77)
 		)
 		(stroke
 			(width 0)
@@ -6796,7 +6796,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 158.75) (xy 185.42 165.1)
+			(xy 185.42 160.02) (xy 185.42 166.37)
 		)
 		(stroke
 			(width 0)
@@ -6846,7 +6846,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 165.1) (xy 157.48 165.1)
+			(xy 162.56 166.37) (xy 157.48 166.37)
 		)
 		(stroke
 			(width 0)
@@ -7526,7 +7526,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 165.1) (xy 157.48 170.18)
+			(xy 157.48 166.37) (xy 157.48 171.45)
 		)
 		(stroke
 			(width 0)
@@ -7606,7 +7606,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 165.1) (xy 116.84 165.1)
+			(xy 139.7 166.37) (xy 116.84 166.37)
 		)
 		(stroke
 			(width 0)
@@ -7956,7 +7956,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 180.34) (xy 168.91 189.23)
+			(xy 168.91 181.61) (xy 168.91 190.5)
 		)
 		(stroke
 			(width 0)
@@ -8266,7 +8266,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 165.1) (xy 157.48 165.1)
+			(xy 139.7 166.37) (xy 157.48 166.37)
 		)
 		(stroke
 			(width 0)
@@ -8326,7 +8326,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 165.1) (xy 116.84 160.02)
+			(xy 116.84 166.37) (xy 116.84 161.29)
 		)
 		(stroke
 			(width 0)
@@ -8376,7 +8376,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 158.75) (xy 162.56 165.1)
+			(xy 162.56 160.02) (xy 162.56 166.37)
 		)
 		(stroke
 			(width 0)
@@ -8466,7 +8466,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 160.02) (xy 139.7 165.1)
+			(xy 139.7 161.29) (xy 139.7 166.37)
 		)
 		(stroke
 			(width 0)
@@ -8596,7 +8596,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 165.1) (xy 162.56 165.1)
+			(xy 185.42 166.37) (xy 162.56 166.37)
 		)
 		(stroke
 			(width 0)
@@ -8996,7 +8996,7 @@
 	)
 	(global_label "vcc_esp"
 		(shape input)
-		(at 144.78 179.07 90)
+		(at 144.78 180.34 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9006,7 +9006,7 @@
 		)
 		(uuid "3d54d650-e184-450e-858d-7e9f0a784316")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 144.78 168.7067 90)
+			(at 144.78 169.9767 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10468,7 +10468,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 185.42 156.21 0)
+		(at 185.42 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10478,7 +10478,7 @@
 		(dnp no)
 		(uuid "0e6fb721-9ccd-424f-8990-84285cc8bdb3")
 		(property "Reference" "H4"
-			(at 187.96 153.6699 0)
+			(at 187.96 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10489,7 +10489,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 187.198 157.226 0)
+			(at 187.198 158.496 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10500,7 +10500,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 185.42 156.21 0)
+			(at 185.42 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10511,7 +10511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 156.21 0)
+			(at 185.42 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10522,7 +10522,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 185.42 156.21 0)
+			(at 185.42 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10533,7 +10533,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 185.42 156.21 0)
+			(at 185.42 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10544,7 +10544,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 185.42 156.21 0)
+			(at 185.42 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10568,7 +10568,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 168.91 189.23 180)
+		(at 168.91 190.5 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10579,7 +10579,7 @@
 		(fields_autoplaced yes)
 		(uuid "21234678-dd44-42a8-b113-110d9943e087")
 		(property "Reference" "TP8"
-			(at 171.45 191.2619 0)
+			(at 171.45 192.5319 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10590,7 +10590,7 @@
 			)
 		)
 		(property "Value" "tension_3V3"
-			(at 171.45 193.8019 0)
+			(at 171.45 195.0719 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10601,7 +10601,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
-			(at 163.83 189.23 0)
+			(at 163.83 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10612,7 +10612,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 189.23 0)
+			(at 163.83 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10623,7 +10623,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 168.91 189.23 0)
+			(at 168.91 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10634,7 +10634,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 168.91 189.23 0)
+			(at 168.91 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10645,7 +10645,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 168.91 189.23 0)
+			(at 168.91 190.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11434,7 +11434,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 139.7 157.48 0)
+		(at 139.7 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11445,7 +11445,7 @@
 		(fields_autoplaced yes)
 		(uuid "4cd6c843-0a94-4932-8597-0d1148f804af")
 		(property "Reference" "H2"
-			(at 142.24 154.9399 0)
+			(at 142.24 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11456,7 +11456,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 142.24 157.4799 0)
+			(at 142.24 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11467,7 +11467,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 139.7 157.48 0)
+			(at 139.7 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11478,7 +11478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 157.48 0)
+			(at 139.7 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11489,7 +11489,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 139.7 157.48 0)
+			(at 139.7 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11500,7 +11500,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 139.7 157.48 0)
+			(at 139.7 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11511,7 +11511,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 139.7 157.48 0)
+			(at 139.7 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11755,7 +11755,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 157.48 170.18 0)
+		(at 157.48 171.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11766,7 +11766,7 @@
 		(fields_autoplaced yes)
 		(uuid "4fcbf363-ab16-4934-9754-a5e4c65d5820")
 		(property "Reference" "#PWR030"
-			(at 157.48 176.53 0)
+			(at 157.48 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11777,7 +11777,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 157.48 175.26 0)
+			(at 157.48 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11787,7 +11787,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 170.18 0)
+			(at 157.48 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11798,7 +11798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 170.18 0)
+			(at 157.48 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11809,7 +11809,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 157.48 170.18 0)
+			(at 157.48 171.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13091,7 +13091,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 127 185.42 180)
+		(at 127 186.69 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13102,7 +13102,7 @@
 		(fields_autoplaced yes)
 		(uuid "70b3207e-7cc9-430e-a8f2-f893d608369b")
 		(property "Reference" "TP7"
-			(at 129.54 187.4519 0)
+			(at 129.54 188.7219 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13113,7 +13113,7 @@
 			)
 		)
 		(property "Value" "tension_5V"
-			(at 129.54 189.9919 0)
+			(at 129.54 191.2619 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13124,7 +13124,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
-			(at 121.92 185.42 0)
+			(at 121.92 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13135,7 +13135,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 185.42 0)
+			(at 121.92 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13146,7 +13146,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 127 185.42 0)
+			(at 127 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13157,7 +13157,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 127 185.42 0)
+			(at 127 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13168,7 +13168,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 127 185.42 0)
+			(at 127 186.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14013,7 +14013,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 168.91 180.34 0)
+		(at 168.91 181.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14024,7 +14024,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a2884fd-b6ae-4718-a3b8-4f44079422b4")
 		(property "Reference" "#PWR025"
-			(at 168.91 184.15 0)
+			(at 168.91 185.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14035,7 +14035,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 168.91 175.26 0)
+			(at 168.91 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14045,7 +14045,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 180.34 0)
+			(at 168.91 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14056,7 +14056,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 180.34 0)
+			(at 168.91 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14067,7 +14067,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 168.91 180.34 0)
+			(at 168.91 181.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14981,7 +14981,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 162.56 156.21 0)
+		(at 162.56 157.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14992,7 +14992,7 @@
 		(fields_autoplaced yes)
 		(uuid "9075c63c-246f-474f-9e9d-d056b5ad05f3")
 		(property "Reference" "H3"
-			(at 165.1 153.6699 0)
+			(at 165.1 154.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15003,7 +15003,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 165.1 156.2099 0)
+			(at 165.1 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15014,7 +15014,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 162.56 156.21 0)
+			(at 162.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15025,7 +15025,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 156.21 0)
+			(at 162.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15036,7 +15036,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 162.56 156.21 0)
+			(at 162.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15047,7 +15047,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 162.56 156.21 0)
+			(at 162.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15058,7 +15058,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 162.56 156.21 0)
+			(at 162.56 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17711,7 +17711,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 116.84 157.48 0)
+		(at 116.84 158.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17722,7 +17722,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4b3a81d-708a-4c04-bdd6-b6a4def58710")
 		(property "Reference" "H1"
-			(at 119.38 154.9399 0)
+			(at 119.38 156.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17733,7 +17733,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 119.38 157.4799 0)
+			(at 119.38 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17744,7 +17744,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
-			(at 116.84 157.48 0)
+			(at 116.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17755,7 +17755,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 157.48 0)
+			(at 116.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17766,7 +17766,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 116.84 157.48 0)
+			(at 116.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17777,7 +17777,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 116.84 157.48 0)
+			(at 116.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17788,7 +17788,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 116.84 157.48 0)
+			(at 116.84 158.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17953,7 +17953,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 127 177.8 0)
+		(at 127 179.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17964,7 +17964,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6e4b9a3-dee5-46d3-9fa8-5ff98a332a6e")
 		(property "Reference" "#PWR024"
-			(at 127 181.61 0)
+			(at 127 182.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17975,7 +17975,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 127 172.72 0)
+			(at 127 173.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17985,7 +17985,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 127 177.8 0)
+			(at 127 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17996,7 +17996,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 127 177.8 0)
+			(at 127 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18007,7 +18007,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 127 177.8 0)
+			(at 127 179.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18754,7 +18754,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 144.78 190.5 180)
+		(at 144.78 191.77 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18765,7 +18765,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd26ce23-a86f-43e5-934e-a3730d6bb923")
 		(property "Reference" "TP9"
-			(at 147.32 192.5319 0)
+			(at 147.32 193.8019 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18776,7 +18776,7 @@
 			)
 		)
 		(property "Value" "tension_Vin_esp"
-			(at 147.32 195.0719 0)
+			(at 147.32 196.3419 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18787,7 +18787,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm"
-			(at 139.7 190.5 0)
+			(at 139.7 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18798,7 +18798,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 190.5 0)
+			(at 139.7 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18809,7 +18809,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 144.78 190.5 0)
+			(at 144.78 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18820,7 +18820,7 @@
 			)
 		)
 		(property "JLCJLC" ""
-			(at 144.78 190.5 0)
+			(at 144.78 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18831,7 +18831,7 @@
 			)
 		)
 		(property "LCSC" ""
-			(at 144.78 190.5 0)
+			(at 144.78 191.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
