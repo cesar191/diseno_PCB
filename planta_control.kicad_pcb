@@ -1935,6 +1935,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1946,7 +1947,6 @@
 			)
 		)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabUp.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 2)
 			)
@@ -3369,6 +3369,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8291,6 +8292,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-92_Inline.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10152,6 +10154,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10163,7 +10166,6 @@
 			)
 		)
 		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabUp.step"
-			(hide yes)
 			(offset
 				(xyz 0 0 2)
 			)
@@ -17142,6 +17144,162 @@
 				(bold yes)
 			)
 			(justify bottom)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "B.SilkS")
+		(uuid "5a0e51e2-2831-4c20-b74d-c18831d37b0a")
+		(pts
+			(xy 28 33) (xy 102 33)
+		)
+		(height -11)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "74"
+			(at 65 20.75 0)
+			(layer "B.SilkS")
+			(uuid "5a0e51e2-2831-4c20-b74d-c18831d37b0a")
+			(effects
+				(font
+					(size 1 1.5)
+					(thickness 0.25)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "B.SilkS")
+		(uuid "85b0aa09-26c8-40cc-a782-7574b2844193")
+		(pts
+			(xy 102 33) (xy 101.9839 101.4951)
+		)
+		(height 11.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "68,4951"
+			(at 112.25 67.24755 90)
+			(layer "B.SilkS")
+			(uuid "85b0aa09-26c8-40cc-a782-7574b2844193")
+			(effects
+				(font
+					(size 1 1.5)
+					(thickness 0.25)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "B.SilkS")
+		(uuid "f0c0454b-16a5-4c90-ac73-3204cee292bc")
+		(pts
+			(xy 28 33) (xy 27.9255 101.4525)
+		)
+		(height -7.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "68,4525"
+			(at 19.25 67.22625 90)
+			(layer "B.SilkS")
+			(uuid "f0c0454b-16a5-4c90-ac73-3204cee292bc")
+			(effects
+				(font
+					(size 1 1.5)
+					(thickness 0.25)
+				)
+				(justify mirror)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "B.SilkS")
+		(uuid "fb5a4a13-d5eb-49ed-a2f7-53198a15721f")
+		(pts
+			(xy 101.9839 101.4951) (xy 27.9255 101.4525)
+		)
+		(height 8.0049)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "74,0584"
+			(at 64.9547 108.25 0)
+			(layer "B.SilkS")
+			(uuid "fb5a4a13-d5eb-49ed-a2f7-53198a15721f")
+			(effects
+				(font
+					(size 1 1.5)
+					(thickness 0.25)
+				)
+				(justify mirror)
+			)
 		)
 	)
 	(point
