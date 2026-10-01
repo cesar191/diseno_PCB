@@ -6685,7 +6685,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 194.31) (xy 254 194.31)
+			(xy 271.78 194.31) (xy 254 194.31)
 		)
 		(stroke
 			(width 0)
@@ -7685,7 +7685,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 195.58) (xy 265.43 194.31)
+			(xy 271.78 196.85) (xy 271.78 194.31)
 		)
 		(stroke
 			(width 0)
@@ -7795,7 +7795,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 194.31) (xy 331.47 193.04)
+			(xy 326.39 194.31) (xy 326.39 193.04)
 		)
 		(stroke
 			(width 0)
@@ -8535,7 +8535,7 @@
 	)
 	(wire
 		(pts
-			(xy 331.47 193.04) (xy 342.9 193.04)
+			(xy 326.39 193.04) (xy 342.9 193.04)
 		)
 		(stroke
 			(width 0)
@@ -10854,7 +10854,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 331.47 194.31 0)
+		(at 326.39 194.31 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -10866,7 +10866,7 @@
 		(fields_autoplaced yes)
 		(uuid "2c5be9cb-fd99-4d67-ae02-98d501dd9481")
 		(property "Reference" "#PWR01"
-			(at 331.47 200.66 0)
+			(at 326.39 200.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10877,7 +10877,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 331.47 199.39 0)
+			(at 326.39 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10887,7 +10887,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 331.47 194.31 0)
+			(at 326.39 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10898,7 +10898,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 331.47 194.31 0)
+			(at 326.39 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10909,7 +10909,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 331.47 194.31 0)
+			(at 326.39 194.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11694,7 +11694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x6.2mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 201.93 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -12150,7 +12150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x6.2mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 201.93 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -14120,7 +14120,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 265.43 195.58 0)
+		(at 271.78 196.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14131,7 +14131,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a2fe3db-62b2-484b-a10b-14abbc00b494")
 		(property "Reference" "#PWR06"
-			(at 265.43 201.93 0)
+			(at 271.78 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14142,7 +14142,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 265.43 200.66 0)
+			(at 271.78 201.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14152,7 +14152,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 265.43 195.58 0)
+			(at 271.78 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14163,7 +14163,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 195.58 0)
+			(at 271.78 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14174,7 +14174,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 265.43 195.58 0)
+			(at 271.78 196.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14456,7 +14456,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x6.2mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 210.82 29.21 0)
 			(hide yes)
 			(show_name no)
